@@ -1,10 +1,17 @@
-header{
-    justify-content: center;
-}
 ul{
+    color: blue;
     list-style: none;
 }
 h1{
     color: brown; font-size: large;
     text-align: center;
+}
+details{
+    color: darkorange;
+}
+summary{
+    font-size: x-large;
+}
+nav{
+    font-size: large;
 }
